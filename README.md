@@ -3,4 +3,4 @@ IMU and MOCAP research outputs
 
 Mocap Setup
 
-<img src="imgs/environment" width="640" height="480" />
+<img src="imgs/environment.jpg" width="640" height="480" />
