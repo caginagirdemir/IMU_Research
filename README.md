@@ -3,7 +3,7 @@
 
 <img src="imgs/environment.jpg" width="640" height="480" />
 
-# Arm setup
+## Arm experiment setup
 Bosch BMX160 IMU, 6 position calibrated, magnometer calibrated, Mocap sync with active marker
 
 <table>
