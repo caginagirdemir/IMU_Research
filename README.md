@@ -1,7 +1,4 @@
-# IMU_Research
-IMU and MOCAP research outputs
-
-# Mocap Setup
+## Mocap Setup and Environment
 8 vicon bonito camera, vicon blade software 2.6.1
 
 <img src="imgs/environment.jpg" width="640" height="480" />
