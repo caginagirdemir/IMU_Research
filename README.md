@@ -35,6 +35,8 @@ Bosch BMX160 IMU, Modelled by using Mocap data
   <tr>
     <td><img src="imgs/turn_table_step_motor_1.jpg" /></td>
     <td><img src="imgs/turn_table_step_motor_2.jpg" /></td>
+  </tr>
+  <tr>
     <td><img src="imgs/turn_table_step_motor_4.jpg" /></td>
   </tr>
 </table>
