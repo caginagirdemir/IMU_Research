@@ -42,7 +42,7 @@ Bosch BMX160 IMU, Modelled by using Mocap data
 </table>
 
 ## Calibration stick experiment setup
-Bosch BMX160 IMU, Mocap sync with active marker
+Invesense MPU9250 IMU, Mocap sync with active marker
 
 <img src="imgs/calibration_stick.png" />
 
