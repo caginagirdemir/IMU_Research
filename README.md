@@ -22,3 +22,5 @@ Invesense MPU9250 IMU, Mocap sync with active marker
 Invesense MPU9250 IMU, Mocap sync with active marker
 
 <img src="imgs/turn_table_dc_motor_1.jpg" width="350" height="480" />
+
+<img src="imgs/turn_table_dc_motor_2.jpg" width="350" height="480" />
