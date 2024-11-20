@@ -6,4 +6,4 @@ Positions
 
 Floor check
 
-<img src="6_position_2.png" width="300" height="200" />
+<img src="6_position_2.png" width="250" height="200" />
