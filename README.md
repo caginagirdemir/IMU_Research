@@ -7,17 +7,6 @@ Mocap Setup (8 vicon bonito camera, vicon blade software 2.6.1
 
 Arm setup (Bosch BMX160 IMU, 6 position calibrated, magnometer calibrated, Mocap sync with active marker)
 
-
-<style>
-  table {
-    border-collapse: collapse;
-    border: none;
-  }
-  td {
-    border: none;
-  }
-</style>
-
 <table>
   <tr>
     <td><img src="imgs/arm_setup_1.png" width="350" height="480" /></td>
