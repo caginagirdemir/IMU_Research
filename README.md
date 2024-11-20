@@ -4,7 +4,7 @@
 <img src="imgs/environment.jpg" width="640" height="480" />
 
 ## Arm experiment setup
-Bosch BMX160 IMU, 6 position calibrated, magnometer calibrated, Mocap sync with active marker
+Bosch BMX160 IMU, Mocap sync with active marker
 
 <table>
   <tr>
@@ -14,6 +14,11 @@ Bosch BMX160 IMU, 6 position calibrated, magnometer calibrated, Mocap sync with 
 </table>
 
 ## Foot experiment setup
-Invesense MPU9250 IMU, 6 position calibrated, magnometer calibrated, Mocap sync with active marker
+Invesense MPU9250 IMU, Mocap sync with active marker
 
 <img src="imgs/foot_setup.png" width="640" height="480" />
+
+## DC Turn table experiment setup
+Invesense MPU9250 IMU, Mocap sync with active marker
+
+<img src="imgs/turn_table_dc_motor_1.jpg" width="350" height="480" />
