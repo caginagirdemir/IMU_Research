@@ -4,6 +4,8 @@ Vibration problem
 
 <img src="displacement.png" />
 
+Sensed speeds by using mocap system. 
+
 | Expected Angular Vel(deg/sec) | Sensed Angular Vel(deg/sec) | Sensed Path Taken(mm) | Error (deg/sec)
 | -------- | ------- | ------- | ------- |
 | 36  | 36.7  | 23.05 | 0.70 |
