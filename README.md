@@ -13,3 +13,7 @@ Bosch BMX160 IMU, 6 position calibrated, magnometer calibrated, Mocap sync with 
   </tr>
 </table>
 
+## Foot experiment setup
+Invesense MPU9250 IMU, 6 position calibrated, magnometer calibrated, Mocap sync with active marker
+
+<img src="imgs/imgs/foot_setup.jpg" width="640" height="480" />
