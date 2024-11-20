@@ -11,4 +11,4 @@ Floor check
 
 Accelerometer biases
 
-<img src="results_1.png" width="600" height="400" />
+<img src="results_1.png" width="700" height="400" />
