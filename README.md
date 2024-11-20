@@ -21,6 +21,10 @@ Invesense MPU9250 IMU, Mocap sync with active marker
 ## DC Turn table experiment setup
 Invesense MPU9250 IMU, Mocap sync with active marker
 
-<img src="imgs/turn_table_dc_motor_1.jpg" width="350" height="480" />
+<table>
+  <tr>
+    <td><img src="imgs/turn_table_dc_motor_1.jpg" width="350" height="480" /></td>
+    <td><img src="imgs/turn_table_dc_motor_2.png" width="350" height="480" /></td>
+  </tr>
+</table>
 
-<img src="imgs/turn_table_dc_motor_2.jpg" width="350" height="480" />
