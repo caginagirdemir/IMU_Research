@@ -1,7 +1,7 @@
 ## Mocap Setup and Environment
 8 vicon bonito camera, vicon blade software 2.6.1
 
-<img src="imgs/environment.jpg" width="640" height="480" />
+<img src="imgs/environment.png" width="640" height="480" />
 
 ## Arm experiment setup
 Bosch BMX160 IMU, Mocap sync with active marker
