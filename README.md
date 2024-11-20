@@ -8,7 +8,7 @@ Bosch BMX160 IMU, Mocap sync with active marker
 
 <table>
   <tr>
-    <td><img src="imgs/arm_setup_1.png" width="450" height="480" /></td>
+    <td><img src="imgs/arm_setup_1.png" width="430" height="480" /></td>
     <td><img src="imgs/arm_setup_2.png" width="640" height="480" /></td>
   </tr>
 </table>
