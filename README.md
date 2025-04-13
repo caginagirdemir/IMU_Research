@@ -1,6 +1,6 @@
 ## Mocap Setup and Environment
 
-You can browse my reports by opening folders.
+# You can browse my reports by opening folders.
 
 8 vicon bonito camera, vicon blade software 2.6.1
 
